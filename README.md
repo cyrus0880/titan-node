@@ -8,7 +8,7 @@ Source code available at: [GitHub](https://github.com/cyrus0880/titan-node)
 ### supports RPi3 or  (ARM64/ARMv7/ARMv8/AMD64) ###
 ```
 
-### What's SeaLink Newwork?
+### What's Titan Newwork?
 ---
 titan Network is a digital resource network that incentivizes matching community idle resources with global demand, making it easy for everyone to leverage the power of DePIN services and participate in the construction of the Internet of Value.
 
