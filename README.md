@@ -19,7 +19,7 @@ titan Network is a digital resource network that incentivizes matching community
 
 > 3.Set Volumes: ./titanedge:/root/.titanedge  for storage node data & wallet sync data and config
 
-> 4.Set envriomental variables to their respective values: TOKEN and go to here get your [identity code] (https://titannet.gitbook.io/titan-network-en/huygens-testnet/installation-and-earnings/bind-the-identity-code)
+> 4.Set envriomental variables to their respective values: TOKEN and go to here get your [identity code](https://titannet.gitbook.io/titan-network-en/huygens-testnet/installation-and-earnings/bind-the-identity-code)
 
 > 5.You're good to go! Once started,
 
